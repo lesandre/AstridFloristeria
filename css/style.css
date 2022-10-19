@@ -132,17 +132,17 @@ nav  ul  li  ul a:hover{
 
 .social__img--facebook{
    
-  background-image: url("/img/facebook.png");  
+  background-image: url("img/facebook.png");  
   
 }
 .social__img--instagram{
    
-  background-image: url("/img/instagram.png") ;  
+  background-image: url("img/instagram.png") ;  
   
 }
 .social__img--whatsapp{
     
-  background-image: url("/img/whatsapp.png");  
+  background-image: url("img/whatsapp.png");  
   
 }
 .social__img{
