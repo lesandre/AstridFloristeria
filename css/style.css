@@ -206,19 +206,19 @@ nav  ul  li  ul a:hover{
 }
 
 .ref1{
-  background-image: url("img/ref1.jpg");
+  background: url("img/ref1.jpg");
 }
 .ref2{
-  background-image: url("img/ref2.jpg");
+  background: url("img/ref2.jpg");
 }
 .ref3{
-  background-image: url("img/ref3.jpg");
+  background: url("img/ref3.jpg");
 }
 .ref4{
-  background-image: url("img/ref4.jpg");
+  background: url("img/ref4.jpg");
 }
 .ref5{
-  background-image: url("img/ref5.jpg");
+  background: url("img/ref5.jpg");
 }
 .ref6{
   background-image: url("img/ref6.jpg");
