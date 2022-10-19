@@ -134,7 +134,7 @@ nav  ul  li  ul a:hover{
   background-image: url("../img/instagram.png");
 }
 .social__img--whatsapp{
-  background-image: url("img/whatsapp.png");
+  background-image: url("/img/whatsapp.png");
 }
 .social__img{
   width: 50px;
