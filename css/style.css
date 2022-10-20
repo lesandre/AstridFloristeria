@@ -16,9 +16,11 @@
   max-width: 1200px;
   margin: auto;
   height: 100%;
+  display: flex;
 }
 nav{
   height: 100%;
+  
 }
 nav > ul{
   height: 100%;
@@ -185,7 +187,7 @@ nav  ul  li  ul a:hover{
   font-size: 1.50rem;
 }
 .ref__button{
-  height: 50px;
+  height: 70px;
   border: none;
   color:#FFD700;
   font-weight: bold;
