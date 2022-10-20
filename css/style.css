@@ -175,27 +175,7 @@ nav  ul  li  ul a:hover{
   flex-direction: column;
   text-align: center;
   padding-bottom: 3rem;
-}
-.ref__nombre{
-  color: #ffffff;
-  margin: 1rem 0;
-  font-family: Pacifico, cursive;
-  font-size: 2rem;
-}
-.ref__precio{
-  color: #ffffff;
-  font-size: 1.50rem;
-}
-.ref__button{
-  height: 70px;
-  border: none;
-  color:#FFD700;
-  font-weight: bold;
-  font-size: 30px;
-  border-radius: 9px;
-  background: #ffffff;
-  padding-top: 0.5rem;  
-  margin: 2rem;
+  
 }
 
 .ref1{
@@ -237,6 +217,22 @@ nav  ul  li  ul a:hover{
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  border-radius: 5%;
-  
+  border-radius: 1%;  
+}
+.ref__nombre{
+  color: #ffffff;
+  margin: 1rem 0;
+  font-family: Pacifico, cursive;
+  font-size: 2rem;
+}
+.ref__button{
+  height: 70px;
+  border: none;
+  color:#FFD700;
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 9px;
+  background: #ffffff;
+  padding-top: 0.5rem;  
+  margin: 2rem;
 }
