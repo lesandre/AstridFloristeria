@@ -161,7 +161,8 @@ nav  ul  li  ul a:hover{
   background: #ffffff;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-around; 
+  
   padding-top: 9rem;
   padding-bottom: 3rem;
   font-family: 'Merriweather Sans', sans-serif;
@@ -169,8 +170,11 @@ nav  ul  li  ul a:hover{
 .referencia{
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   padding-bottom: 3rem;
+  
   
 }
 
@@ -209,10 +213,10 @@ nav  ul  li  ul a:hover{
 }
 .ref__img{
   width: 300px;
-  height: 300px;
+  height: 400px;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;  
   border-radius: 1%;  
 }
 .ref__nombre{
