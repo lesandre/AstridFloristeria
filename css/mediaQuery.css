@@ -18,6 +18,9 @@
   .search input {
     display: none;
   }
+  .logo{
+    display: none;
+  }
   .header {
     justify-content: center;
     padding: 0 1rem;
