@@ -15,10 +15,8 @@
   display: none;
 }
 @media screen and (max-width: 720px) {
-  .search input {
-    display: none;
-  }
-  .logo{
+  
+  .logo__header{
     display: none;
   }
   .header {
@@ -26,11 +24,11 @@
     padding: 0 1rem;
   }
   nav > ul {
-    background-color: #f9eb8a;
+    background-color: #fff;
     flex-direction: column;
     position: fixed;
     top: 77px;
-    left: 0;
+    left: 25px;
     height: 0;
     width: 100%;
     z-index: 100;
@@ -61,5 +59,8 @@
     height: 300px;
     visibility: visible;
     opacity: 1;
+  }
+  .links__header-redes{
+    display: none;
   }
 }

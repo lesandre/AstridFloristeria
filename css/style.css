@@ -9,11 +9,12 @@
   position: fixed;
   left: 0;
   top: 0;  
-  padding: 0px 150px;
+  padding: 0px 100px;
 }
-.logo{
-  width: 80px;
-  height: 50px;
+.logo__header{
+  width: 250px;
+  height: 140px;
+  margin-top: 50px;
 }
 .menu{
   max-width: 1200px;
@@ -51,86 +52,12 @@ nav > ul > li{
 .links__header:hover{
   transform:scale(1.1);
   border-radius: 19px;
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
-  background: #f9eb8a;
-  -webkit-transform:scale(1.1);
-  -moz-transform:scale(1.1);
-  -ms-transform:scale(1.1);
-  -o-transform:scale(1.1);
-}
-nav  ul  li  ul{
-  width: 200px;
-  background: #f9eb8a;
-  display: flex;  
-  flex-direction: column;
-  position: absolute;
-  border-radius: 10px;
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
-  left: -5px;
-  top: 90px;  
-  padding: 6px;
-  opacity: 1;
-  visibility: hidden;
-  z-index: 10;
-  transition: all 300ms ease;
+  
+  box-shadow: inset 0px 0px 40px #000, 0px 0px 25px #000;
+  background: #ffffff;
   
 }
-nav  ul  li:hover  ul{
-  visibility: visible;
-  opacity: 0.8;
-  top: 95px;
-}
-nav  ul  li  ul::before{
-  content: " ";
-  width: 0;
-  height: 0;
-  border-left: 12px solid transparent;
-  border-right: 12px solid transparent;
-  border-bottom: 12px solid #f9eb8a;
-  position: absolute;
-  top: -12px;
-  left: 20px;
-} 
-nav  ul  li  ul a {
-  display: block;
-  color: #000000;
-  padding: 9px;
-  padding-left: 14px;
-  margin-top: 10px;
-  font-size: 17px;
-  font-weight: bold;
-  transition: all 300ms ease;
-  
-}
-nav  ul  li  ul a:hover{
-  background: #ffffff;  
-  color: #FFD700;
-  font-weight: bold;
-  transform: scale(1.1);
-  font-size: 19px;
-  padding-left: 30px;
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
-}
 
-.search{
-  margin: auto;
-}
-
-.search input{
-  color: #000000; 
-  background: #B2B2B2; 
-  width: 300px;
-  padding: 5px 20px;
-  border: none;  
-  border-radius: 5px;
-  margin-right: 10px;
-  outline: none;
-}
-::placeholder{
-  color: #000000;
-  font-size: 19px;
-  font-weight: bold;
-}
 .social{
   width: 200px;
   display: flex;
@@ -154,7 +81,18 @@ nav  ul  li  ul a:hover{
   background-repeat: no-repeat;
   
 }
-
+.links__header-redes{
+  padding: 9px;
+  place-items: center;
+  font-family: "Soucer Sans Pro",sans-serif;
+  color: white;
+  font-size: 40px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+  box-shadow: inset 0px 0px 90px #000, 0px 0px 25px #000;
+  margin-right: 20px;
+  margin-left: 20px;
+}
 
 
 .referencias{
@@ -235,4 +173,77 @@ nav  ul  li  ul a:hover{
   background: #ffffff;
   padding-top: 0.5rem;  
   margin: 2rem;
+}
+/*Aquí debajo va el FOOTER*/
+
+footer{
+  width: 100%;
+  padding: 50px 0px;
+  background-image: url(../img/background-footer.svg);
+  background-size: cover;
+  
+  
+}
+
+.container__footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.box__footer{
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+.logo{
+  margin: 0;
+}
+
+.box__footer .logo img{
+  width: 180px;
+ 
+}
+
+
+
+.box__footer h2{
+  margin-bottom: 30px;
+  color: #343434;
+  font-weight: 700;
+}
+
+.box__footer a{
+  margin-top: 10px;
+  color: #7a7a7a;
+  font-weight: 600;
+}
+
+.box__footer a:hover{
+  opacity: 0.8;
+}
+
+.box__footer a .fab{
+  font-size: 20px;
+}
+
+.box__copyright{
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+  padding: 0px 40px;
+}
+
+.box__copyright p{
+  margin-top: 20px;
+  color: #7a7a7a;
+}
+
+.box__copyright hr{
+  border: none;
+  height: 1px;
+  background-color: #7a7a7a;
 }
