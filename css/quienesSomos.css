@@ -4,14 +4,19 @@ h2{
 }
 .section{
   display: flex;
-  
+  margin-bottom: 100px;
   padding: 0 400px;
 }
 img{
   width: 500px;
   height: 500px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
 }
 p{
   font-size: 40px;
-  margin: 0;
+  
 }
