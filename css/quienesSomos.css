@@ -20,6 +20,7 @@ img{
   -o-border-radius: 50%;
 }
 p{
+  padding: 190px 0 0 0;
   font-size: 25px;
   font-family: 'Merriweather Sans', sans-serif;
   width: 500px;
