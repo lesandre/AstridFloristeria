@@ -116,39 +116,101 @@ nav > ul > li{
   
 }
 
-.ref1{
-  background: url("../img/ref1.jpg");
-}
-.ref2{
-  background: url("../img/ref2.jpg");
-}
-.ref3{
-  background: url("../img/ref3.jpg");
-}
-.ref4{
-  background: url("../img/ref4.jpg");
-}
 .ref5{
-  background: url("../img/ref5.jpg");
+  background: url("../img/ref\ 5.jpg");
 }
-.ref6{
-  background-image: url("../img/ref6.jpg");
-}
-.ref7{
-  background-image: url("../img/ref7.jpg");
-}
-.ref8{
-  background-image: url("../img/ref8.jpg");
-}
-.ref9{
-  background-image: url("../img/ref9.jpg");
-}
+
 .ref10{
-  background-image: url("../img/ref10.jpg");
+  background-image: url("../img/ref\ 10.jpg");
 }
 .ref11{
-  background-image: url("../img/ref11.jpg");
+  background-image: url("../img/ref\ 11.jpg");
 }
+.ref12{
+  background-image: url("../img/ref\ 12.jpg");
+}
+.ref13{
+  background-image: url("../img/ref\ 13.jpg");
+}
+.ref14{
+  background-image: url("../img/ref\ 14.jpg");
+}
+.ref15{
+  background-image: url("../img/ref\ 15.jpg");
+}
+.ref16{
+  background-image: url("../img/ref\ 16.jpg");
+}
+.ref23{
+  background-image: url("../img/ref\ 23.jpg");
+}
+.ref24{
+  background-image: url("../img/ref\ 24.jpg");
+}
+.ref25{
+  background-image: url("../img/ref\ 25.jpg");
+}
+.ref26{
+  background-image: url("../img/ref26.jpg");
+}
+.ref27{
+  background-image: url("../img/ref27.jpg");
+}
+.ref28{
+  background-image: url("../img/ref\ 28.jpg");
+}
+.ref29{
+  background-image: url("../img/ref\ 29.jpg");
+}
+.ref30{
+  background-image: url("../img/ref\ 30.jpg");
+}
+.ref31{
+  background-image: url("../img/ref\ 31.jpg");
+}
+.ref32{
+  background-image: url("../img/ref\ 32.jpg");
+}
+.ref33{
+  background-image: url("../img/ref\ 33.jpg");
+}
+.ref34{
+  background-image: url("../img/ref\ 34.jpg");
+}
+.ref35{
+  background-image: url("../img/ref\ 35.jpg");
+}
+.ref36{
+  background-image: url("../img/ref\ 36.jpg");
+}
+.ref37{
+  background-image: url("../img/ref\ 37.jpg");
+}
+.ref38{
+  background-image: url("../img/ref\ 38.jpg");
+}
+.ref39{
+  background-image: url("../img/ref\ 39.jpg");
+}
+.ref45{
+  background-image: url("../img/Ref\ 45.webp");
+}
+.ref48{
+  background-image: url("../img/Ref\ 48.jpg");
+}
+.ref49{
+  background-image: url("../img/Ref\ 49.jpg");
+}
+.ref50{
+  background-image: url("../img/Ref\ 50.jpg");
+}
+.ref51{
+  background-image: url("../img/Ref\ 51.jpg");
+}
+.ref52{
+  background-image: url("../img/Ref\ 52.jpg");
+}
+
 .ref__img{
   width: 300px;
   height: 400px;
