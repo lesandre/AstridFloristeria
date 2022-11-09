@@ -5,6 +5,7 @@ h2{
 }
 .section{
   display: flex;
+  justify-content: space-between;
   margin-bottom: 100px;
   padding: 0 300px;
 }
@@ -20,4 +21,6 @@ img{
 p{
   font-size: 25px;
   font-family: 'Merriweather Sans', sans-serif;
+  width: 500px;
+  height: 500px;
 }
