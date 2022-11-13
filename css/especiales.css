@@ -95,6 +95,7 @@ nav > ul > li{
   margin-right: 20px;
   margin-left: 20px;
 }
+
 .title{
   font-family: 'Merriweather Sans', sans-serif;
   text-align: center;
@@ -103,7 +104,6 @@ nav > ul > li{
   margin: auto;
   padding: 170px 0 0 0;
 }
-
 .referencias{
   background: #ffffff;
   display: flex;
@@ -125,90 +125,143 @@ nav > ul > li{
   
 }
 
-.ref21{
-  background: url("../img/ref\ 21.jpg");
+.ref5{
+  background: url("../img/ref\ 5.jpg");
 }
 
-.ref40{
-  background-image: url("../img/ref\ 40.jpg");
+.ref10{
+  background-image: url("../img/ref\ 10.jpg");
 }
-.ref41{
-  background-image: url("../img/ref\ 41.jpg");
+.ref11{
+  background-image: url("../img/ref\ 11.jpg");
 }
-.ref42{
-  background-image: url("../img/ref\ 42.jpg");
+.ref12{
+  background-image: url("../img/ref\ 12.jpg");
 }
-.ref43{
-  background-image: url("../img/ref\ 43.jpg");
+.ref13{
+  background-image: url("../img/ref\ 13.jpg");
 }
-.ref91{
-  background: url("../img/ref\ 91.jpg");
+.ref14{
+  background-image: url("../img/ref\ 14.jpg");
+}
+.ref15{
+  background-image: url("../img/ref\ 15.jpg");
+}
+.ref16{
+  background-image: url("../img/ref\ 16.jpg");
+}
+.ref23{
+  background-image: url("../img/ref\ 23.jpg");
+}
+.ref24{
+  background-image: url("../img/ref\ 24.jpg");
+}
+.ref25{
+  background-image: url("../img/ref\ 25.jpg");
+}
+.ref26{
+  background-image: url("../img/ref26.jpg");
+}
+.ref27{
+  background-image: url("../img/ref27.jpg");
+}
+.ref28{
+  background-image: url("../img/ref\ 28.jpg");
+}
+.ref29{
+  background-image: url("../img/ref\ 29.jpg");
+}
+.ref30{
+  background-image: url("../img/ref\ 30.jpg");
+}
+.ref31{
+  background-image: url("../img/ref\ 31.jpg");
+}
+.ref32{
+  background-image: url("../img/ref\ 32.jpg");
+}
+.ref33{
+  background-image: url("../img/ref\ 33.jpg");
+}
+.ref34{
+  background-image: url("../img/ref\ 34.jpg");
+}
+.ref35{
+  background-image: url("../img/ref\ 35.jpg");
+}
+.ref36{
+  background-image: url("../img/ref\ 36.jpg");
+}
+.ref37{
+  background-image: url("../img/ref\ 37.jpg");
+}
+.ref38{
+  background-image: url("../img/ref\ 38.jpg");
+}
+.ref39{
+  background-image: url("../img/ref\ 39.jpg");
+}
+.ref45{
+  background-image: url("../img/Ref\ 45.webp");
+}
+.ref48{
+  background-image: url("../img/Ref\ 48.jpg");
+}
+.ref49{
+  background-image: url("../img/Ref\ 49.jpg");
+}
+.ref50{
+  background-image: url("../img/Ref\ 50.jpg");
+}
+.ref51{
+  background-image: url("../img/Ref\ 51.jpg");
+}
+.ref52{
+  background-image: url("../img/Ref\ 52.jpg");
+}
+.ref77{
+  background: url("../img/ref\ 77.jpg");
 }
 
-.ref92{
-  background-image: url("../img/ref\ 92.jpg");
+.ref78{
+  background-image: url("../img/ref\ 78.jpg");
 }
-.ref93{
-  background-image: url("../img/ref\ 93.jpg");
+.ref79{
+  background-image: url("../img/ref\ 79.jpg");
 }
-.ref94{
-  background-image: url("../img/ref\ 94.jpg");
+.ref80{
+  background-image: url("../img/ref\ 80.jpg");
 }
-.ref95{
-  background-image: url("../img/ref\ 95.jpg");
+.ref81{
+  background-image: url("../img/ref\ 81.jpg");
 }
-.ref96{
-  background: url("../img/ref\ 96.jpg");
+.ref82{
+  background-image: url("../img/ref\ 82.jpg");
 }
-
-.ref97{
-  background-image: url("../img/ref\ 97.jpg");
+.ref83{
+  background-image: url("../img/ref\ 83.jpg");
 }
-.ref98{
-  background-image: url("../img/ref\ 98.jpg");
+.ref84{
+  background-image: url("../img/ref\ 84.jpg");
 }
-.ref99{
-  background-image: url("../img/ref\ 99.jpg");
+.ref85{
+  background-image: url("../img/ref\ 85.jpg");
 }
-.ref100{
-  background-image: url("../img/ref\ 100.jpg");
+.ref86{
+  background-image: url("../img/ref\ 86.jpg");
 }
-.ref101{
-  background: url("../img/ref\ 101.jpg");
+.ref87{
+  background-image: url("../img/ref\ 87.jpg");
 }
-
-.ref102{
-  background-image: url("../img/ref\ 102.jpg");
+.ref88{
+  background-image: url("../img/Ref\ 88.jpg");
 }
-.ref103{
-  background-image: url("../img/ref\ 103.jpg");
+.ref89{
+  background-image: url("../img/Ref\ 89.jpg");
 }
-.ref104{
-  background-image: url("../img/ref\ 104.jpg");
+.ref90{
+  background-image: url("../img/ref\ 90.jpg");
 }
-.ref105{
-  background-image: url("../img/ref\ 105.jpg");
-}
-.ref106{
-  background: url("../img/ref\ 106.jpg");
-}
-
-.ref107{
-  background-image: url("../img/ref\ 107.jpg");
-}
-.ref108{
-  background-image: url("../img/ref\ 108.jpg");
-}
-.ref109{
-  background-image: url("../img/ref\ 109.jpg");
-}
-.ref110{
-  background-image: url("../img/ref\ 110.jpg");
-}
-.ref111{
-  background: url("../img/ref\ 111.jpg");
-}
-
 
 
 .ref__img{
@@ -240,6 +293,7 @@ nav > ul > li{
   padding-top: 0.5rem;  
   margin: 2rem;
 }
+/*Aquí debajo va el FOOTER*/
 
 footer{
   width: 100%;
